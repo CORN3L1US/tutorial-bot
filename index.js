@@ -73,7 +73,7 @@ bot.on("message", (message) => {
 
     const embed = new Discord.MessageEmbed() // A local variable that defines an embed
 
-	.setColor('#00ff00') // An color for your embed. right now it's green. you can find more colors here: https://www.w3schools.com/colors/colors_picker.asp
+	.setColor('#00ff00') // An colour for your embed. right now it's green. you can find more colours here: https://www.w3schools.com/colors/colors_picker.asp
 	.setTitle(`I'm a title`) // A title for your embed
 	.setDescription(`I'm a description`) // A description for your embed
 	.setThumbnail('https://cdn.discordapp.com/attachments/752934115791339615/796741239055581184/corn2.png') // A little picture for your embed
