@@ -37,7 +37,7 @@ If you have done the steps correctly, your bot will now be up and running and re
 
 // Wanna upgrade the bot? Visit this website to learn Discord.js: https://discord.js.org/#/
 
-// Wanna learn Javascript? Visit this website for tips and tricks: https://www.w3schools.com/js/DEFAULT.asp
+// Wanna learn JavaScript? Visit this website for tips and tricks: https://www.w3schools.com/js/DEFAULT.asp
 
 
 
