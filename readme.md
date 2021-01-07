@@ -18,7 +18,7 @@ Start the bot:
 
 Step 1. I really recommend downloading Visual Studio Code for codeing Discord Bots. It's not necessary.
 
-Step 2. dowload node.js: https://nodejs.org/en/
+Step 2. Download node.js: https://nodejs.org/en/
 
 Step 6. Download node_modules and package-lock by choosing your folder and then typing "npm install discord.js" in your Visual Studio Code Terminal or your node.js command promt as you downloaded before.
 
