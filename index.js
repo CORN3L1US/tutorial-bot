@@ -34,13 +34,13 @@ const prefix = "PREFIX HERE";  // Choose your prefix here
 
 bot.on("ready", () => {
 
- console.log(`${bot.user.tag} is up and running!`); // A function that makes you sure that your bot is online
+ console.log(`${bot.user.tag} is up and running!`); //  Makes you sure that your bot is online
 
 
 
 
 
-  bot.user.setPresence({ // A function that gives your bot an custom status on discord
+  bot.user.setPresence({ //  Gives your bot an custom status on discord
 
     activity: { name: `I'm wating for a status`, type: "WATCHING" }, // Choose: WATCHING, LISTENING or PLAYING for the status
 
