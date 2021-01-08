@@ -92,4 +92,4 @@ bot.on("message", (message) => {
 
 
 
-bot.login(token); // Logs your bot in with your token
+bot.login(token); // Logs your bot with your token
