@@ -16,7 +16,7 @@ Regards Cornelius <3
 
 Start the bot:
 
-Step 1. I really recommend downloading Visual Studio Code for codeing Discord Bots. It's not necessary.
+Step 1. I really recommend downloading Visual Studio Code for codeing Discord Bots. Tho It's not necessary.
 
 Step 2. Download node.js: https://nodejs.org/en/
 
