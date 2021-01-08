@@ -14,7 +14,7 @@
 
  Wanna upgrade the bot? Visit this website to learn Discord.js: https://discord.js.org/#/
 
- Wanna learn Javascript? Visit this website for tips and tricks: https://www.w3schools.com/js/DEFAULT.asp
+
 
 */
 
