@@ -34,7 +34,7 @@ const prefix = "PREFIX HERE";  // Choose your prefix here
 
 bot.on("ready", () => {
 
- console.log(`${bot.user.tag} is up and running!`); //  Makes you sure that your bot is online
+ console.log(`${bot.user.tag} is up and running!`); //  Makes you sure that your bot is online in the console
 
 
 
