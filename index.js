@@ -61,7 +61,7 @@ bot.on("message", (message) => {
 
   const command = args.shift().toLowerCase();
 
-  if(command === 'hey'){ // An if statemant. So if you write "!HEY" it will reply with "Whats Up!"."
+  if(command === 'hey'){ // An if statement. So if you write "!HEY" it will reply with "Whats Up!"."
     message.reply("whats up!") // replys
     
   } else if (command === 'multiple') { // Make multiple commands with an else if statement. Works the same way as the command above.
