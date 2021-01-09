@@ -62,10 +62,10 @@ bot.on("message", (message) => {
   const command = args.shift().toLowerCase();
 
   if(command === 'hey'){ // An if statement. So if you write "!HEY" it will reply with "Whats Up!"."
-    message.reply("whats up!") // replys
+    message.reply("whats up!"); // replys
     
   } else if (command === 'multiple') { // Make multiple commands with an else if statement. Works the same way as the command above.
-    message.channel.send("Yes, multiple :O") // Sends a message to the channel instead of replying
+    message.channel.send("Yes, multiple :O"); // Sends a message to the channel instead of replying
 
   } else if (command === 'embed') { // An embed is a box with text formed in a really nice way.
 
@@ -82,7 +82,7 @@ bot.on("message", (message) => {
 
 // This was just a few features for an embed. you find alot more information about embeds here: https://discordjs.guide/popular-topics/embeds.html#using-the-richembedmessageembed-constructor
 
-    message.channel.send(embed) // Sends the variable "embed"
+    message.channel.send(embed); // Sends the variable "embed"
   } 
 
 });
