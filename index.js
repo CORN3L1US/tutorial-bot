@@ -23,7 +23,7 @@
 
 const Discord = require("discord.js"); // Variable that defines the Discord.js framework
 
-var bot = new Discord.Client(); // Defines a new discord client (A bot).
+const bot = new Discord.Client(); // Defines a new discord client (A bot).
 
 const token = "TOKEN HERE"; // copypaste Your token here. Get your token here: https://discord.com/developers/applications
 
