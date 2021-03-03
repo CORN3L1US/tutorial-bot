@@ -8,7 +8,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________                                                                                                                                                                                              
  Tutorial Discord Bot by CORN3L1US 
  Discord: CORN3L1US#9999
- Feel free to use it as you wish :)
+ Feel free to use as you wish :)
 
 
  Wanna upgrade the bot? Visit this website to learn Discord.js: https://discord.js.org/#/
